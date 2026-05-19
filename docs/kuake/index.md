@@ -1,4 +1,8 @@
-# 夸克网盘生成多个分享链接示例
+# 夸克网盘资源
+
+- [小赵资源分享目录](./xiaozhao-share-links.md)
+
+## 生成多个分享链接示例
 第一步：选中要分享的文件后，点击【分享】功能
 
 ![](/kuake/kuake1.png)
@@ -16,4 +20,3 @@
 ![](/kuake/kuake4.png)
 
 [原文链接](https://t4xvknjpxm.feishu.cn/docx/DBosdbdMNomicqxFo9scUnjxnWE)
-
