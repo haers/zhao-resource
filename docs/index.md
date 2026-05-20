@@ -14,9 +14,6 @@ hero:
     - theme: brand
       text: 资源总目录
       link: /nav
-    - theme: alt
-      text: 防走丢导航
-      link: /nav
     - theme: sponsor
       text: 赞助
       link: /sponsor
