@@ -2,17 +2,13 @@ import DefaultTheme from 'vitepress/theme'
 
 // giscusTalk
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
-// 进度条
-import { NProgress } from 'nprogress-v2/dist/index.js'
 // 样式
 import 'nprogress-v2/dist/index.css'
 import 'virtual:group-icons.css' //代码组样式
 import './style/index.css' //自定义样式
 
-import { h } from 'vue' // h函数
+import { defineAsyncComponent, h } from 'vue' // h函数
 import { useData , useRoute } from 'vitepress'
-// mediumZoom
-import mediumZoom from 'medium-zoom';
 import { onMounted, watch, nextTick } from 'vue';
 
 
@@ -21,7 +17,6 @@ import MNavLinks from './components/MNavLinks.vue' //导航
 import HomeUnderline from "./components/HomeUnderline.vue" // 首页下划线
 import confetti from "./components/confetti.vue" // 五彩纸屑
 import update from "./components/update.vue" // 更新时间
-import xgplayer from "./components/xgplayer.vue" //西瓜播放器
 import ArticleMetadata from "./components/ArticleMetadata.vue" //字数阅读时间
 import Linkcard from "./components/Linkcard.vue" //链接卡片
 import MyLayout from "./components/MyLayout.vue" //视图过渡
@@ -33,11 +28,11 @@ import MouseFollower from "./components/MouseFollower.vue"
 
 // 不蒜子
 import { inBrowser } from 'vitepress'
-import busuanzi from 'busuanzi.pure.js'
 import bsz from "./components/bsz.vue"
 
 // 彩虹背景动画样式
 let homePageStyle: HTMLStyleElement | undefined
+const xgplayer = defineAsyncComponent(() => import('./components/xgplayer.vue')) // 西瓜播放器
 
 export default {
   extends: DefaultTheme,
@@ -52,14 +47,24 @@ export default {
     app.component('ArticleMetadata' , ArticleMetadata) //字数阅读时间
     app.component('Linkcard' , Linkcard) //链接卡片
     app.component('fluidborder' , fluidborder) //流体边框仅用于演示
+    app.component('busuanzi' , bsz) // 不蒜子统计
 
     // 不蒜子
     if (inBrowser) {
-      NProgress.configure({ showSpinner: false })
-      router.onBeforeRouteChange = () => {
-        NProgress.start() // 开始进度条
+      const loadNProgress = async () => {
+        const { NProgress } = await import('nprogress-v2/dist/index.js')
+        NProgress.configure({ showSpinner: false })
+        return NProgress
       }
-      router.onAfterRouteChange = () => {
+
+      router.onBeforeRouteChange = () => {
+        loadNProgress().then((NProgress) => NProgress.start()) // 开始进度条
+      }
+      router.onAfterRouteChange = async () => {
+         const [{ default: busuanzi }, NProgress] = await Promise.all([
+          import('busuanzi.pure.js'),
+          loadNProgress(),
+         ])
          busuanzi.fetch()
          NProgress.done() // 停止进度条
        }
@@ -99,7 +104,8 @@ export default {
   // medium-zoom
   setup() {
     const route = useRoute();
-    const initZoom = () => {
+    const initZoom = async () => {
+      const { default: mediumZoom } = await import('medium-zoom')
       // mediumZoom('[data-zoomable]', { background: 'var(--vp-c-bg)' }); // 默认
       mediumZoom('.main img', { background: 'var(--vp-c-bg)' }); // 不显式添加{data-zoomable}的情况下为所有图像启用此功能
     };

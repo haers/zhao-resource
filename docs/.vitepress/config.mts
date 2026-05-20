@@ -15,7 +15,7 @@ export default defineConfig({
     hostname: 'https://kuake.netlify.app'
   },
   head: [
-    ['link', { rel: 'icon', href: '/logo.png' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
 
   base: '/',
@@ -137,6 +137,10 @@ export default defineConfig({
     },
     ssr: {
       noExternal: ['mermaid'],
+    },
+    build: {
+      // VitePress 与 Mermaid 的基础代码接近默认 500KB 阈值，重依赖已按需拆分。
+      chunkSizeWarningLimit: 600,
     },
   },
 
