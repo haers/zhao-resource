@@ -2,6 +2,12 @@
 title: 设计摄影与剪辑资源合集
 description: 小赵资源站设计摄影与剪辑资源合集，整理平面设计、摄影、剪辑、素材模板、UI 动效等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "编程开发与AI"
+  link: "/programming-ai#资源明细"
+next:
+  text: "电子书与有声读物"
+  link: "/books-audiobooks#资源明细"
 ---
 
 # 设计摄影与剪辑资源合集

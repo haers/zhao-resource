@@ -2,6 +2,10 @@
 title: 社区资料与论坛备份资源合集
 description: 小赵资源站社区资料与论坛备份资源合集，整理社区资料、论坛备份和稀缺内容归档等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "图片写真与壁纸"
+  link: "/images-wallpapers#资源明细"
+next: false
 ---
 
 # 社区资料与论坛备份资源合集

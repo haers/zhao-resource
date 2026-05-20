@@ -2,6 +2,12 @@
 title: 人文社科与财经法律资源合集
 description: 小赵资源站人文社科与财经法律资源合集，整理历史、法律、经济、财经、社科知识等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "电子书与有声读物"
+  link: "/books-audiobooks#资源明细"
+next:
+  text: "健康运动与生活"
+  link: "/health-life#资源明细"
 ---
 
 # 人文社科与财经法律资源合集

@@ -2,6 +2,12 @@
 title: 健康运动与生活资源合集
 description: 小赵资源站健康运动与生活资源合集，整理健康养生、运动训练、生活兴趣和实用课程等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "人文社科与财经法律"
+  link: "/humanities-finance-law#资源明细"
+next:
+  text: "软件工具与系统"
+  link: "/software-tools#资源明细"
 ---
 
 # 健康运动与生活资源合集

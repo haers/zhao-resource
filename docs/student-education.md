@@ -2,6 +2,10 @@
 title: 学生教育资源合集
 description: 小赵资源站学生教育资源合集，整理学前、小学、初中、高中、英语启蒙、TED 等夸克网盘免费学习资料。
 updated: 2026-05-20
+prev: false
+next:
+  text: "职业考试与职场提升"
+  link: "/career-development#资源明细"
 ---
 
 # 学生教育资源合集

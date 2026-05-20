@@ -2,6 +2,12 @@
 title: 图片写真与壁纸资源合集
 description: 小赵资源站图片写真与壁纸资源合集，整理图片素材、写真、壁纸与视觉参考等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "音乐音频"
+  link: "/music-audio#资源明细"
+next:
+  text: "社区资料与论坛备份"
+  link: "/community-archive#资源明细"
 ---
 
 # 图片写真与壁纸资源合集

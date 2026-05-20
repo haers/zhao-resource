@@ -2,6 +2,12 @@
 title: 职业考试与职场提升资源合集
 description: 小赵资源站职业考试与职场提升资源合集，整理考研、职业资格、职场效率、PPT、CAD 等夸克网盘免费资料。
 updated: 2026-05-20
+prev:
+  text: "学生教育"
+  link: "/student-education#资源明细"
+next:
+  text: "编程开发与AI"
+  link: "/programming-ai#资源明细"
 ---
 
 # 职业考试与职场提升资源合集

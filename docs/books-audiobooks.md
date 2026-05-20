@@ -2,6 +2,12 @@
 title: 电子书与有声读物资源合集
 description: 小赵资源站电子书与有声读物资源合集，整理小说、有声书、电子书合集和经典读物等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "设计摄影与剪辑"
+  link: "/design-photo-video#资源明细"
+next:
+  text: "人文社科与财经法律"
+  link: "/humanities-finance-law#资源明细"
 ---
 
 # 电子书与有声读物资源合集

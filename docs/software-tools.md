@@ -2,6 +2,12 @@
 title: 软件工具与系统资源合集
 description: 小赵资源站软件工具与系统资源合集，整理系统工具、效率软件、装机资源和实用工具等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "健康运动与生活"
+  link: "/health-life#资源明细"
+next:
+  text: "音乐音频"
+  link: "/music-audio#资源明细"
 ---
 
 # 软件工具与系统资源合集

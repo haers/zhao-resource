@@ -2,6 +2,12 @@
 title: 音乐音频资源合集
 description: 小赵资源站音乐音频资源合集，整理音乐合集、音频课程、伴奏素材等夸克网盘免费资源。
 updated: 2026-05-20
+prev:
+  text: "软件工具与系统"
+  link: "/software-tools#资源明细"
+next:
+  text: "图片写真与壁纸"
+  link: "/images-wallpapers#资源明细"
 ---
 
 # 音乐音频资源合集
