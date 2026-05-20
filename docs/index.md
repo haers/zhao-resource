@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 资源总目录
-      link: /student-education#资源明细
+      link: /nav
     - theme: alt
       text: 防走丢导航
       link: /nav

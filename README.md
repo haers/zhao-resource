@@ -60,7 +60,17 @@
 
 ### 👨‍🎓 其他资源
 
-- [学生专区（K12）](./docs/student-hub.md)
+- [学生教育](./docs/student-education.md)
+- [职业考试与职场提升](./docs/career-development.md)
+- [编程开发与AI](./docs/programming-ai.md)
+- [设计摄影与剪辑](./docs/design-photo-video.md)
+- [电子书与有声读物](./docs/books-audiobooks.md)
+- [人文社科与财经法律](./docs/humanities-finance-law.md)
+- [健康运动与生活](./docs/health-life.md)
+- [软件工具与系统](./docs/software-tools.md)
+- [音乐音频](./docs/music-audio.md)
+- [图片写真与壁纸](./docs/images-wallpapers.md)
+- [社区资料与论坛备份](./docs/community-archive.md)
 
 ---
 

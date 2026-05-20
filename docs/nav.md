@@ -5,7 +5,7 @@
 | 用途 | 地址 | 说明 |
 | --- | --- | --- |
 | 主站 | [https://kuake.netlify.app](https://kuake.netlify.app/) | 建议收藏，防止走丢 |
-| 资源总目录 | [打开目录](/student-education#资源明细) | 按 11 个一级分类整理 |
+| 资源总目录 | [当前页面](/nav) | 按 11 个一级分类整理 |
 | 夸克群聊 | [加入群聊](https://pan.quark.cn/g/d4fe85cd13) | 资源交流与更新提醒 |
 
 ## 资源分类

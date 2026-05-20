@@ -1,10 +1,10 @@
 ---
-title: 编程开发与AI
-description: 编程课程、AI 通识、DeepSeek、AIGC、绘画和视频工具资源。
+title: 编程开发与AI资源合集
+description: 小赵资源站编程开发与AI资源合集，整理编程课程、DeepSeek、ChatGPT、AIGC、AI绘画和视频工具等夸克网盘免费资源。
 updated: 2026-05-20
 ---
 
-# 编程开发与AI
+# 编程开发与AI资源合集
 
 编程课程、AI 通识、DeepSeek、AIGC、绘画和视频工具资源。
 
