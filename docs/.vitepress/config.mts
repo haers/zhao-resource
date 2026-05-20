@@ -170,41 +170,41 @@ export default defineConfig({
     //侧边栏
     sidebar: [
       {
-        text: '📌 前言', 
+        text: '前言', 
         collapsed: false,
         items: [
-          { text: '🧭 资源导航【建议收藏】', link: '/nav' },
+          { text: '资源导航【建议收藏】', link: '/nav' },
         ]
       },
       {
-        text: '⭐ 精品资源', 
+        text: '精品资源', 
         collapsed: false,
         items: [
-          { text: '🎙️ 百家讲坛', link: '/baijiajiangtan' },
+          { text: '百家讲坛', link: '/baijiajiangtan' },
         ]
       },
       {
-        text: '📚 优质资源',
+        text: '优质资源',
         collapsed: false,
         items: [
-          { text: '🎓 学生教育', link: '/student-education' },
-          { text: '💼 职业考试与职场提升', link: '/career-development' },
-          { text: '🤖 编程开发与AI', link: '/programming-ai' },
-          { text: '🎬 设计摄影与剪辑', link: '/design-photo-video' },
-          { text: '📖 电子书与有声读物', link: '/books-audiobooks' },
-          { text: '⚖️ 人文社科与财经法律', link: '/humanities-finance-law' },
-          { text: '🌿 健康运动与生活', link: '/health-life' },
-          { text: '🛠️ 软件工具与系统', link: '/software-tools' },
-          { text: '🎧 音乐音频', link: '/music-audio' },
-          { text: '🖼️ 图片写真与壁纸', link: '/images-wallpapers' },
-          { text: '🗃️ 社区资料与论坛备份', link: '/community-archive' },
+          { text: '学生教育', link: '/student-education' },
+          { text: '职业考试与职场提升', link: '/career-development' },
+          { text: '编程开发与AI', link: '/programming-ai' },
+          { text: '设计摄影与剪辑', link: '/design-photo-video' },
+          { text: '电子书与有声读物', link: '/books-audiobooks' },
+          { text: '人文社科与财经法律', link: '/humanities-finance-law' },
+          { text: '健康运动与生活', link: '/health-life' },
+          { text: '软件工具与系统', link: '/software-tools' },
+          { text: '音乐音频', link: '/music-audio' },
+          { text: '图片写真与壁纸', link: '/images-wallpapers' },
+          { text: '社区资料与论坛备份', link: '/community-archive' },
         ]
       },  
       {
-        text: '🛠️ 工具',
+        text: '工具',
         collapsed: false,
         items: [
-          { text: '🔎 资源查找教程', link: '/find-course' },
+          { text: '资源查找教程', link: '/find-course' },
         ],
       },
     ] ,
