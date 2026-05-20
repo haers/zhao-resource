@@ -5,7 +5,9 @@ updated: 2026-05-20
 prev:
   text: "图片写真与壁纸"
   link: "/images-wallpapers#资源明细"
-next: false
+next:
+  text: "资源查找教程"
+  link: "/find-course"
 ---
 
 # 社区资料与论坛备份资源合集
