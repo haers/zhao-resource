@@ -29,11 +29,6 @@ next: false
   <img src="./public/zfbzsm.png" alt="支付宝" style="width: 45%;"/>
 </div>
 
-
-<!-- ## 2025-3-10
-
-- 更新 [toc显示多级标题](./markdown.md#目录) 使用说明 -->
-
 <!-- <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="./wxzsm.png" alt="微信" style="width: 45%;"/>
   <img src="./zfbzsm.png" alt="支付宝" style="width: 45%;"/>

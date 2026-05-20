@@ -86,7 +86,7 @@ export default defineConfig({
       // 组件插入h1标题下
       md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
         let htmlResult = slf.renderToken(tokens, idx, options)
-        if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`
+        if (tokens[idx].tag === 'h1') htmlResult += `<ClientOnly><ArticleMetadata /></ClientOnly>`
         return htmlResult
       },
 
@@ -321,7 +321,7 @@ export default defineConfig({
         text: '工具',
         collapsed: false,
         items: [
-          { text: '资源查找教程', link: 'find-course' },
+          { text: '资源查找教程', link: '/find-course' },
         ],
       },
     ] ,
