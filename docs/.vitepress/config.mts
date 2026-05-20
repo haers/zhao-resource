@@ -200,16 +200,9 @@ export default defineConfig({
     //导航栏
     nav: [
       { text: '首页', link: '/' },
+      { text: '🗂️资源总目录', link: '/student-education#资源明细' },
       { text: '📜🎙️百家讲坛', link: '/baijiajiangtan' },
-      { 
-        text: '📚教育', link: '/k12'
-        // items: [
-        //   { text: '书籍资源', link: '/books' },
-        //   { text: '课程大全', link: '/courses' },
-        //   { text: '教辅资料', link: '/learning-materials' },
-        //   { text: '热门小说', link: '/novels' }
-        // ]
-      },
+      { text: '🔎资源查找', link: '/find-course' },
       // { 
       //   text: '🧑‍💻📱软件', link: '/software'
       //   // items: [
@@ -228,7 +221,6 @@ export default defineConfig({
       //   //   { text: '音乐', link: '/music' }
       //   // ]
       // },
-      { text: '🪗🎷AI', link: '/ai' },
       // {
       //   text: '🙂🍉样例222',
       //   items: [
@@ -304,17 +296,17 @@ export default defineConfig({
         text: '优质资源',
         collapsed: false,
         items: [
-          { text: '1. 学生专区（K12）', link: '/student-hub' },
-          { text: '2. 升学考公考研', link: '/exam-career' },
-          { text: 'k12学前小学初中高中', link: '/k12' },
-          { text: '4. 摄影剪辑', link: '/photography-editing' },
-          { text: '考研考公&职业办公', link: '/exam-and-career-preparation' },
-          { text: '语言', link: '/language' },
-          { text: '书籍小说', link: '/book-novel' },
-          { text: '经济法律历史', link: '/economics-law-history' },
-          { text: '生活兴趣', link: '/life-interest' },
-          { text: 'deepseek&AI', link: '/ai' },
-
+          { text: '1. 学生教育', link: '/student-education#资源明细' },
+          { text: '2. 职业考试与职场提升', link: '/career-development#资源明细' },
+          { text: '3. 编程开发与AI', link: '/programming-ai#资源明细' },
+          { text: '4. 设计摄影与剪辑', link: '/design-photo-video#资源明细' },
+          { text: '5. 电子书与有声读物', link: '/books-audiobooks#资源明细' },
+          { text: '6. 人文社科与财经法律', link: '/humanities-finance-law#资源明细' },
+          { text: '7. 健康运动与生活', link: '/health-life#资源明细' },
+          { text: '8. 软件工具与系统', link: '/software-tools#资源明细' },
+          { text: '9. 音乐音频', link: '/music-audio#资源明细' },
+          { text: '10. 图片写真与壁纸', link: '/images-wallpapers#资源明细' },
+          { text: '11. 社区资料与论坛备份', link: '/community-archive#资源明细' },
         ]
       },  
       {

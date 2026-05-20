@@ -12,39 +12,70 @@ hero:
     alt: 资源站首页图片
   actions:
     - theme: brand
-      text: 快速开始
-      link: /nav
+      text: 资源总目录
+      link: /student-education#资源明细
     - theme: alt
-      text: 源码链接
-      link: https://github.com/haers/zhao_resource
+      text: 防走丢导航
+      link: /nav
     - theme: sponsor
       text: 赞助
       link: /sponsor
 
 features:
   - icon: 🎓
-    title: 学业资源
-    details: 涵盖从学前启蒙（宝宝巴士、卡由）到高中冲刺（八省联考题）的全阶段资源，包含课程、备考资料与动画，一站式满足系统学习需求。
+    title: 学生教育
+    details: 学前、小初高、英语启蒙、TED 等学习资料，共 34 个二级目录。
+    link: /student-education#资源明细
 
   - icon: 💼
-    title: 职场技能
-    details: 汇集办公软件、设计剪辑（Pr/Ps）、编程开发等专业教程与模板，助力提升工作效率与职场竞争力。
+    title: 职业考试与职场提升
+    details: 考研、职业资格、职场效率、PPT、CAD 等资源，共 21 个二级目录。
+    link: /career-development#资源明细
 
   - icon: 🧠
-    title: 知识拓展
-    details: 收录百家讲坛、TED演讲、BBC纪录片及文史经法经典读物，为用户提供课堂外的深度知识充电。
+    title: 编程开发与AI
+    details: 编程课程、AI 通识、DeepSeek、AIGC、绘画和视频工具，共 150 个二级目录。
+    link: /programming-ai#资源明细
 
-  - icon: 🌸
-    title: 生活兴趣
-    details: 包含养生保健、音乐、摄影、生活技巧等多样化内容，服务于用户的个人爱好与品质生活提升。
+  - icon: 🎬
+    title: 设计摄影与剪辑
+    details: 平面设计、摄影、剪辑、素材模板、UI 动效等资源，共 51 个二级目录。
+    link: /design-photo-video#资源明细
+
+  - icon: 📚
+    title: 电子书与有声读物
+    details: 小说、有声书、电子书合集和经典读物，共 25 个二级目录。
+    link: /books-audiobooks#资源明细
+
+  - icon: ⚖️
+    title: 人文社科与财经法律
+    details: 历史、法律、经济、财经、社科与知识类资源，共 77 个二级目录。
+    link: /humanities-finance-law#资源明细
+
+  - icon: 🌿
+    title: 健康运动与生活
+    details: 健康养生、运动训练、生活兴趣和实用课程，共 39 个二级目录。
+    link: /health-life#资源明细
 
   - icon: 🛠️
-    title: 软件工具
-    details: 提供精选的Windows/Mac软件、黑科技工具及安全插件，并附带安装指南，切实解决工具获取与使用难题。
+    title: 软件工具与系统
+    details: 系统工具、效率软件、装机资源和实用工具，共 30 个二级目录。
+    link: /software-tools#资源明细
+
+  - icon: 🎧
+    title: 音乐音频
+    details: 音乐合集、音频课程、伴奏素材等内容，共 44 个二级目录。
+    link: /music-audio#资源明细
+
+  - icon: 🖼️
+    title: 图片写真与壁纸
+    details: 图片素材、写真、壁纸与视觉参考，共 14 个二级目录。
+    link: /images-wallpapers#资源明细
 
   - icon: 🗃️
-    title: 经典典藏
-    details: 精心整理绝版书、有声书、天涯论坛神帖、经典影音等稀缺与怀旧资源，致力于保存和分享数字记忆。
+    title: 社区资料与论坛备份
+    details: 社区资料、论坛备份和稀缺内容归档，共 3 个二级目录。
+    link: /community-archive#资源明细
 ---
 
 <HomeUnderline />
