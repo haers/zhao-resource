@@ -78,5 +78,3 @@ features:
 <HomeUnderline />
 <!-- 去掉效果，因为手机看不清 -->
 <!-- <confetti /> -->
-
-<busuanzi />
