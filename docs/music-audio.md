@@ -74,7 +74,7 @@ next:
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
 | 编程开发与AI | 150 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
 | 设计摄影与剪辑 | 51 | [打开](https://pan.quark.cn/s/e755db878f38) |
-| 电子书与有声读物 | 25 | [打开](https://pan.quark.cn/s/27428a112f1d) |
+| 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 39 | [打开](https://pan.quark.cn/s/318955691a3c) |
 | 软件工具与系统 | 33 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |

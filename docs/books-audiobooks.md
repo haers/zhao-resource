@@ -45,6 +45,7 @@ next:
 | 书籍-三国机密-马伯庸-演播白夜剧场-2022 | [`小赵资源分享/05-电子书与有声读物/23-书籍-三国机密-马伯庸-演播白夜剧场-2022`](https://pan.quark.cn/s/4a080730349f) | [打开](https://pan.quark.cn/s/4a080730349f) |
 | 书籍-我的心理医生是只猫-把猫咪开给悲伤的人 | [`小赵资源分享/05-电子书与有声读物/24-书籍-我的心理医生是只猫-把猫咪开给悲伤的人`](https://pan.quark.cn/s/3b51702c497a) | [打开](https://pan.quark.cn/s/3b51702c497a) |
 | 书籍-我在精神病院学斩神-精校版全本-epub+txt | [`小赵资源分享/05-电子书与有声读物/25-书籍-我在精神病院学斩神-精校版全本-epub+txt`](https://pan.quark.cn/s/30b733c2fc36) | [打开](https://pan.quark.cn/s/30b733c2fc36) |
+| 有声小说-诡秘之主-多人有声剧-西方奇幻克苏鲁 | [`小赵资源分享/05-电子书与有声读物/26-有声小说-诡秘之主-多人有声剧-西方奇幻克苏鲁`](https://pan.quark.cn/s/ed0ec425ab68) | [打开](https://pan.quark.cn/s/ed0ec425ab68) |
 
 ## 其他分类资源
 
@@ -55,7 +56,7 @@ next:
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
 | 编程开发与AI | 150 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
 | 设计摄影与剪辑 | 51 | [打开](https://pan.quark.cn/s/e755db878f38) |
-| 电子书与有声读物 | 25 | [打开](https://pan.quark.cn/s/27428a112f1d) |
+| 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 39 | [打开](https://pan.quark.cn/s/318955691a3c) |
 | 软件工具与系统 | 33 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
