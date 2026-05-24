@@ -52,6 +52,7 @@ next:
 | 素材-哪吒角色导航语音包 | [`小赵资源分享/08-软件工具与系统/30-素材-哪吒角色导航语音包`](https://pan.quark.cn/s/faeb40e11204) | [打开](https://pan.quark.cn/s/faeb40e11204) |
 | 系统-Mac必装软件 | [`小赵资源分享/08-软件工具与系统/31-系统-Mac必装软件`](https://pan.quark.cn/s/097d27b06dad) | [打开](https://pan.quark.cn/s/097d27b06dad) |
 | 系统-Windows必装软件 | [`小赵资源分享/08-软件工具与系统/32-系统-Windows必装软件`](https://pan.quark.cn/s/94d1a1af02be) | [打开](https://pan.quark.cn/s/94d1a1af02be) |
+| 工具-多平台内容一键发布工具 | [`小赵资源分享/08-软件工具与系统/33-工具-多平台内容一键发布工具`](https://pan.quark.cn/s/ee09e3a0de0b) | [打开](https://pan.quark.cn/s/ee09e3a0de0b) |
 
 ## 其他分类资源
 
@@ -65,7 +66,7 @@ next:
 | 电子书与有声读物 | 25 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 39 | [打开](https://pan.quark.cn/s/318955691a3c) |
-| 软件工具与系统 | 32 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
+| 软件工具与系统 | 33 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
 | 音乐音频 | 44 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
 | 图片写真与壁纸 | 14 | [打开](https://pan.quark.cn/s/e33e69f438fa) |
 | 社区资料与论坛备份 | 3 | [打开](https://pan.quark.cn/s/0e972255ea18) |
