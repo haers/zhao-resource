@@ -1,7 +1,7 @@
 ---
 title: 编程开发与AI资源合集
 description: 小赵资源站编程开发与AI资源合集，整理编程课程、DeepSeek、ChatGPT、AIGC、AI绘画和视频工具等夸克网盘免费资源。
-updated: 2026-05-24
+updated: 2026-06-01
 prev:
   text: "职业考试与职场提升"
   link: "/career-development#资源明细"
@@ -184,7 +184,7 @@ next:
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 39 | [打开](https://pan.quark.cn/s/318955691a3c) |
 | 软件工具与系统 | 33 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
-| 音乐音频 | 44 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
+| 音乐音频 | 45 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
 | 图片写真与壁纸 | 14 | [打开](https://pan.quark.cn/s/e33e69f438fa) |
 | 社区资料与论坛备份 | 3 | [打开](https://pan.quark.cn/s/0e972255ea18) |
 :::
