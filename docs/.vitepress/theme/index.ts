@@ -122,7 +122,7 @@ export default {
 
     // giscus配置
     giscusTalk({
-      repo: 'haers/zhao_resource', //仓库
+      repo: 'haers/zhao-resource', //仓库
       repoId: 'R_kgDOOTK3lw', //仓库ID
       category: 'General', // 讨论分类
       categoryId: 'DIC_kwDOOTK3l84C1Ext', //讨论分类ID

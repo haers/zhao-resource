@@ -271,7 +271,7 @@ export default defineConfig({
 
     //社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/haers/zhao_resource' },
+      { icon: 'github', link: 'https://github.com/haers/zhao-resource' },
     ],
 
     //手机端深浅模式文字修改

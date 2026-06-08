@@ -12,7 +12,7 @@
 现主要分享优质PDF、课程、讲座、英语、百家讲坛等资源。电影、动漫等资源建议使用谷歌搜索。
 
 **问题反馈**  
-资源需求及各类问题欢迎提交 [Issue 反馈](https://github.com/haers/zhao_resource/issues)。
+资源需求及各类问题欢迎提交 [Issue 反馈](https://github.com/haers/zhao-resource/issues)。
 
 **项目文档**  
 代码编译、打包等教程文档位于 md 目录下。
@@ -77,7 +77,7 @@
 
 
 ## ❓ 问题反馈
-如需帮忙寻找资源或有任何问题，请提交 [Issue 反馈](https://github.com/haers/zhao_resource/issues)。
+如需帮忙寻找资源或有任何问题，请提交 [Issue 反馈](https://github.com/haers/zhao-resource/issues)。
 
 **其他联系方式：**
 - 💬 群聊：[夸克资源群](https://pan.quark.cn/g/d4fe85cd13)
