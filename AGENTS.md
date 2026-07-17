@@ -4,7 +4,7 @@
 
 ## 资源数据来源
 
-- 11 个优质资源分类页的数据来源于另一个项目整理生成的文件：`/Users/zhaochangqing/Documents/Dev/zcq/kuake/xiaozhao-share-links.md`。
+- 11 个优质资源分类页的数据来源于另一个项目整理生成的文件：`/Users/zhaochangqing/Documents/Dev/kuake/xiaozhao-share-links.md`。
 - 资源链接通常由夸克相关项目生成，本仓库只负责展示与站点结构整理。
 - 不要在本站里随意生成、猜测、补写夸克分享链接。
 - Markdown 链接没有真实 URL 时写 `待生成` 或保留明确说明，禁止写 `undefined`、空链接或假链接。
