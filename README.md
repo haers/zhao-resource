@@ -26,17 +26,17 @@
 
 | 分类 | 资源页 |
 | --- | --- |
-| 学生教育 | [学前、小初高、英语启蒙与 TED](./docs/student-education.md) |
-| 职业考试与职场提升 | [考研、职业资格、办公效率与技能课程](./docs/career-development.md) |
-| 编程开发与 AI | [编程课程、AIGC 与 AI 工具](./docs/programming-ai.md) |
-| 设计摄影与剪辑 | [设计素材、摄影、剪辑与 PPT 模板](./docs/design-photo-video.md) |
-| 电子书与有声读物 | [电子书、有声书与经典读物](./docs/books-audiobooks.md) |
-| 人文社科与财经法律 | [历史、人文、财经与法律资料](./docs/humanities-finance-law.md) |
-| 健康运动与生活 | [健康、运动、亲子与生活课程](./docs/health-life.md) |
-| 软件工具与系统 | [系统工具、效率软件与 TV 应用](./docs/software-tools.md) |
-| 音乐音频 | [音乐合集、伴奏与音频课程](./docs/music-audio.md) |
-| 图片写真与壁纸 | [壁纸、图片素材与视觉参考](./docs/images-wallpapers.md) |
-| 社区资料与论坛备份 | [社区资料与论坛归档](./docs/community-archive.md) |
+| 🎓 学生教育 | [学前、小初高、英语启蒙与 TED](./docs/student-education.md) |
+| 💼 职业考试与职场提升 | [考研、职业资格、办公效率与技能课程](./docs/career-development.md) |
+| 💻 编程开发与 AI | [编程课程、AIGC 与 AI 工具](./docs/programming-ai.md) |
+| 🎨 设计摄影与剪辑 | [设计素材、摄影、剪辑与 PPT 模板](./docs/design-photo-video.md) |
+| 📚 电子书与有声读物 | [电子书、有声书与经典读物](./docs/books-audiobooks.md) |
+| ⚖️ 人文社科与财经法律 | [历史、人文、财经与法律资料](./docs/humanities-finance-law.md) |
+| 🏃 健康运动与生活 | [健康、运动、亲子与生活课程](./docs/health-life.md) |
+| 🛠️ 软件工具与系统 | [系统工具、效率软件与 TV 应用](./docs/software-tools.md) |
+| 🎵 音乐音频 | [音乐合集、伴奏与音频课程](./docs/music-audio.md) |
+| 🖼️ 图片写真与壁纸 | [壁纸、图片素材与视觉参考](./docs/images-wallpapers.md) |
+| 🗂️ 社区资料与论坛备份 | [社区资料与论坛归档](./docs/community-archive.md) |
 
 ## 精选资料
 
