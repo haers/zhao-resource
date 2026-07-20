@@ -10,11 +10,10 @@ updated: 2026-07-20
 
 ## 下载与资料入口
 
-> 广场舞入门资料包：[点击打开「广场舞入门与科学运动资料包」](https://pan.quark.cn/s/42ea776f19b5)
->
-> 广场舞歌曲合集：[点击打开「广场舞热门歌曲1000首无损音乐合集」](https://pan.quark.cn/s/e342baadbece)
-
-入门资料包包含运动参考、动作示范和学习入口；歌曲合集收录广场舞常用伴奏。
+| 资源 | 内容 | 链接 |
+| --- | --- | --- |
+| 广场舞入门与科学运动资料包 | 运动参考、动作示范和学习入口 | [打开](https://pan.quark.cn/s/42ea776f19b5) |
+| 广场舞热门歌曲 1000 首无损音乐合集 | 广场舞常用伴奏 | [打开](https://pan.quark.cn/s/e342baadbece) |
 
 ## 运动参考
 
@@ -25,13 +24,17 @@ updated: 2026-07-20
 
 ## 教学与动作示范
 
-- [B站：零基础广场舞教学合集](https://www.bilibili.com/video/BV1w3Eb6PEtL/)
-- [B站：国家体育总局 12 套广场舞健身操讲解](https://www.bilibili.com/video/BV1X34y1U7ZQ/)
-- [优酷：国家体育总局 12 套广场舞示范播单](https://list.youku.com/albumlist/show/id_29356143.html)
-- [抖音：广场舞基本步大全（零基础）](https://www.douyin.com/video/7517235048270761276)
+| 资源 | 平台 | 链接 |
+| --- | --- | --- |
+| 零基础广场舞教学合集 | B站 | [打开](https://www.bilibili.com/video/BV1w3Eb6PEtL/) |
+| 国家体育总局 12 套广场舞健身操讲解 | B站 | [打开](https://www.bilibili.com/video/BV1X34y1U7ZQ/) |
+| 国家体育总局 12 套广场舞示范播单 | 优酷 | [打开](https://list.youku.com/albumlist/show/id_29356143.html) |
+| 广场舞基本步大全（零基础） | 抖音 | [打开](https://www.douyin.com/video/7517235048270761276) |
 
 ## 活动与进阶阅读
 
-- [国家体育总局：2026 年全国健身舞蹈（广场舞）锦标赛规程](https://www.sport.gov.cn/stzx/n5434/c29527337/content.html)
-- [国家体育总局社会体育指导中心：广场舞项目动态](https://www.sport.gov.cn/stzx/n5434/index.html)
-- [OpenStax《Anatomy and Physiology 2e》](https://openstax.org/details/books/anatomy-and-physiology-2e)
+| 资源 | 内容 | 链接 |
+| --- | --- | --- |
+| 2026 年全国健身舞蹈（广场舞）锦标赛规程 | 国家体育总局 | [打开](https://www.sport.gov.cn/stzx/n5434/c29527337/content.html) |
+| 广场舞项目动态 | 国家体育总局社会体育指导中心 | [打开](https://www.sport.gov.cn/stzx/n5434/index.html) |
+| OpenStax《Anatomy and Physiology 2e》 | 运动解剖进阶阅读 | [打开](https://openstax.org/details/books/anatomy-and-physiology-2e) |
