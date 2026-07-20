@@ -188,6 +188,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '专题资源',
+        collapsed: false,
+        items: [
+          { text: '广场舞资源与更新线索', link: '/square-dance' },
+        ]
+      },
+      {
         text: '优质资源',
         collapsed: false,
         items: [
