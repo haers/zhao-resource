@@ -26,3 +26,9 @@
     top: -2px;
     margin-right: 4px;
 }
+
+/* 资源表格的链接保持统一文字样式，避免只突出单个平台。 */
+.vp-doc table a[href^="https://www.bilibili.com/"]::before {
+    content: none;
+    display: none;
+}
