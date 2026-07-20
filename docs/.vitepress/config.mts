@@ -191,7 +191,7 @@ export default defineConfig({
         text: '专题资源',
         collapsed: false,
         items: [
-          { text: '广场舞资源与更新线索', link: '/square-dance' },
+          { text: '广场舞歌曲与教学资料合集', link: '/square-dance' },
         ]
       },
       {
