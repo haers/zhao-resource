@@ -222,13 +222,10 @@ export default defineConfig({
 
 
 
-    //Algolia搜索
+    // 本地搜索
     search: {
       provider: 'local',
       options: {
-        appId: 'QVKQI62L15',
-        apiKey: 'bef8783dde57293ce082c531aa7c7e0c',
-        indexName: 'doc',
         locales: {
           root: {
             placeholder: '搜索文档',
