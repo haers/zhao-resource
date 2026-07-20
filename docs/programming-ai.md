@@ -1,7 +1,7 @@
 ---
 title: 编程开发与AI资源合集
 description: 小赵资源站编程开发与AI资源合集，整理编程课程、DeepSeek、ChatGPT、AIGC、AI绘画和视频工具等夸克网盘免费资源。
-updated: 2026-06-01
+updated: 2026-07-20
 prev:
   text: "职业考试与职场提升"
   link: "/career-development#资源明细"
@@ -12,7 +12,7 @@ next:
 
 # 编程开发与AI资源合集
 
-编程课程、AI 通识、DeepSeek、AIGC、绘画和视频工具资源。
+Python、JavaScript、前后端开发、人工智能与 AIGC 学习资料汇在一起。内容从编程入门到项目实战，也包含 DeepSeek、ChatGPT、AI 绘画和视频工具相关课程。
 
 ## 资源明细
 
