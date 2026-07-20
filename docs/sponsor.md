@@ -14,7 +14,7 @@ next: false
 
 > [!IMPORTANT] 关于更新
 > 
-> 每周对于新资源我都会更新，有啥需要找的资源可以到 github 提 issue
+> 资源会持续整理和更新；有需要找的资源可以到 GitHub 提 Issue
 > 
 > 以下赞助感谢大家支持～
 
