@@ -1,7 +1,7 @@
 ---
 title: 音乐音频资源合集
 description: 小赵资源站音乐音频资源合集，整理音乐合集、音频课程、伴奏素材等夸克网盘免费资源。
-updated: 2026-07-20
+updated: 2026-07-21
 prev:
   text: "软件工具与系统"
   link: "/software-tools#资源明细"
@@ -81,7 +81,7 @@ next:
 | 设计摄影与剪辑 | 51 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
-| 健康运动与生活 | 39 | [打开](https://pan.quark.cn/s/318955691a3c) |
+| 健康运动与生活 | 41 | [打开](https://pan.quark.cn/s/318955691a3c) |
 | 软件工具与系统 | 33 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
 | 音乐音频 | 45 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
 | 图片写真与壁纸 | 14 | [打开](https://pan.quark.cn/s/e33e69f438fa) |

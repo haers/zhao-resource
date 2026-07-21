@@ -1,7 +1,7 @@
 ---
 title: 健康运动与生活资源合集
 description: 小赵资源站健康运动与生活资源合集，整理健康养生、运动训练、生活兴趣和实用课程等夸克网盘免费资源。
-updated: 2026-07-20
+updated: 2026-07-21
 prev:
   text: "人文社科与财经法律"
   link: "/humanities-finance-law#资源明细"
@@ -63,6 +63,8 @@ next:
 | 情感-新恋爱讲座 | [`小赵资源分享/07-健康运动与生活/37-情感-新恋爱讲座`](https://pan.quark.cn/s/6e894f2e7ceb) | [打开](https://pan.quark.cn/s/6e894f2e7ceb) |
 | 情感-张赟慧 极简风水入门(完结) | [`小赵资源分享/07-健康运动与生活/38-情感-张赟慧 极简风水入门(完结)`](https://pan.quark.cn/s/792291555be3) | [打开](https://pan.quark.cn/s/792291555be3) |
 | 生活-农家日用大全 | [`小赵资源分享/07-健康运动与生活/39-生活-农家日用大全`](https://pan.quark.cn/s/6c11f08d1ca5) | [打开](https://pan.quark.cn/s/6c11f08d1ca5) |
+| 健身-广场舞入门与科学运动资料包 | [`小赵资源分享/07-健康运动与生活/40-健身-广场舞入门与科学运动资料包`](https://pan.quark.cn/s/42ea776f19b5) | [打开](https://pan.quark.cn/s/42ea776f19b5) |
+| 急救-急救与应急避险学习入口 | [`小赵资源分享/07-健康运动与生活/41-急救-急救与应急避险学习入口`](https://pan.quark.cn/s/99b8b7f138e1) | [打开](https://pan.quark.cn/s/99b8b7f138e1) |
 
 ## 其他分类资源
 
@@ -75,7 +77,7 @@ next:
 | 设计摄影与剪辑 | 51 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
-| 健康运动与生活 | 39 | [打开](https://pan.quark.cn/s/318955691a3c) |
+| 健康运动与生活 | 41 | [打开](https://pan.quark.cn/s/318955691a3c) |
 | 软件工具与系统 | 33 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
 | 音乐音频 | 45 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
 | 图片写真与壁纸 | 14 | [打开](https://pan.quark.cn/s/e33e69f438fa) |
