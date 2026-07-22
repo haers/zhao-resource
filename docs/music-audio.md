@@ -1,7 +1,7 @@
 ---
 title: 音乐音频资源合集
 description: 小赵资源站音乐音频资源合集，整理音乐合集、音频课程、伴奏素材等夸克网盘免费资源。
-updated: 2026-07-21
+updated: 2026-07-22
 prev:
   text: "软件工具与系统"
   link: "/software-tools#资源明细"
@@ -69,6 +69,7 @@ next:
 | 合集-群星 - 有生之年非听不可的1001张唱片(第一辑-001-250) 2014 - FLAC 分轨 | [`小赵资源分享/09-音乐音频/43-合集-群星 - 有生之年非听不可的1001张唱片(第一辑-001-250) 2014 - FLAC 分轨`](https://pan.quark.cn/s/eb7b1b48fe92) | [打开](https://pan.quark.cn/s/eb7b1b48fe92) |
 | 吉他-B站 - Tiger谭秋娟的吉他弹唱入门课 | [`小赵资源分享/09-音乐音频/44-吉他-B站 - Tiger谭秋娟的吉他弹唱入门课`](https://pan.quark.cn/s/5714934994a3) | [打开](https://pan.quark.cn/s/5714934994a3) |
 | 合集-广场舞热门歌曲1000首无损音乐合集 | [`小赵资源分享/09-音乐音频/45-合集-广场舞热门歌曲1000首无损音乐合集`](https://pan.quark.cn/s/e342baadbece) | [打开](https://pan.quark.cn/s/e342baadbece) |
+| 工具-开源音频编辑与记谱工具入口 | [`小赵资源分享/09-音乐音频/46-工具-开源音频编辑与记谱工具入口`](https://pan.quark.cn/s/6f38a08f6136) | [打开](https://pan.quark.cn/s/6f38a08f6136) |
 
 ## 其他分类资源
 
@@ -83,7 +84,7 @@ next:
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 41 | [打开](https://pan.quark.cn/s/318955691a3c) |
 | 软件工具与系统 | 34 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
-| 音乐音频 | 45 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
+| 音乐音频 | 46 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
 | 图片写真与壁纸 | 14 | [打开](https://pan.quark.cn/s/e33e69f438fa) |
 | 社区资料与论坛备份 | 3 | [打开](https://pan.quark.cn/s/0e972255ea18) |
 :::
