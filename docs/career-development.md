@@ -1,7 +1,7 @@
 ---
 title: 职业考试与职场提升资源合集
 description: 小赵资源站职业考试与职场提升资源合集，整理考研、职业资格、职场效率、PPT、CAD 等夸克网盘免费资料。
-updated: 2026-07-22
+updated: 2026-07-23
 prev:
   text: "学生教育"
   link: "/student-education#资源明细"
@@ -50,7 +50,7 @@ next:
 | 学生教育 | 34 | [打开](https://pan.quark.cn/s/d3b0c7a986b1) |
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
 | 编程开发与AI | 150 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
-| 设计摄影与剪辑 | 51 | [打开](https://pan.quark.cn/s/e755db878f38) |
+| 设计摄影与剪辑 | 52 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 41 | [打开](https://pan.quark.cn/s/318955691a3c) |

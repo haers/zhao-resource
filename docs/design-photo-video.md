@@ -1,7 +1,7 @@
 ---
 title: 设计摄影与剪辑资源合集
 description: 小赵资源站设计摄影与剪辑资源合集，整理平面设计、摄影、剪辑、素材模板、UI 动效等夸克网盘免费资源。
-updated: 2026-07-22
+updated: 2026-07-23
 prev:
   text: "编程开发与AI"
   link: "/programming-ai#资源明细"
@@ -71,6 +71,7 @@ next:
 | 办公软件-Excel表格模板资料包-4000套 | [`小赵资源分享/04-设计摄影与剪辑/49-办公软件-Excel表格模板资料包-4000套`](https://pan.quark.cn/s/ee43ec7b65c0) | [打开](https://pan.quark.cn/s/ee43ec7b65c0) |
 | 办公软件-Office办公模板大合集 | [`小赵资源分享/04-设计摄影与剪辑/50-办公软件-Office办公模板大合集`](https://pan.quark.cn/s/f71bd4f6fc7d) | [打开](https://pan.quark.cn/s/f71bd4f6fc7d) |
 | 办公软件-WPS零基础入门教程 | [`小赵资源分享/04-设计摄影与剪辑/51-办公软件-WPS零基础入门教程`](https://pan.quark.cn/s/67ee0ebd554a) | [打开](https://pan.quark.cn/s/67ee0ebd554a) |
+| 工具-开源视频剪辑与字幕工具入口 | [`小赵资源分享/04-设计摄影与剪辑/52-工具-开源视频剪辑与字幕工具入口`](https://pan.quark.cn/s/c55161a43380) | [打开](https://pan.quark.cn/s/c55161a43380) |
 
 ## 其他分类资源
 
@@ -80,7 +81,7 @@ next:
 | 学生教育 | 34 | [打开](https://pan.quark.cn/s/d3b0c7a986b1) |
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
 | 编程开发与AI | 150 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
-| 设计摄影与剪辑 | 51 | [打开](https://pan.quark.cn/s/e755db878f38) |
+| 设计摄影与剪辑 | 52 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 41 | [打开](https://pan.quark.cn/s/318955691a3c) |
