@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="小赵资源站">
+  <defs>
+    <linearGradient id="bg" x1="4" y1="2" x2="28" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <!-- 天蓝圆角底：与站点吉祥物背景呼应 -->
+  <rect width="32" height="32" rx="8" fill="url(#bg)"/>
+  <!-- 简笔头像轮廓：小尺寸可辨，不是精细卡通 -->
+  <circle cx="16" cy="12.5" r="6.2" fill="#fde7d2" stroke="#1f2937" stroke-width="1.4"/>
+  <!-- 眼镜 -->
+  <rect x="10.2" y="11.2" width="4.6" height="3.2" rx="1.2" fill="none" stroke="#111827" stroke-width="1.35"/>
+  <rect x="17.2" y="11.2" width="4.6" height="3.2" rx="1.2" fill="none" stroke="#111827" stroke-width="1.35"/>
+  <path d="M14.8 12.8h2.4" stroke="#111827" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- 微笑 -->
+  <path d="M13.6 15.6c.8.9 1.6 1.3 2.4 1.3s1.6-.4 2.4-1.3" fill="none" stroke="#111827" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- 肩部：白条纹感简化色块 -->
+  <path d="M7 27.5c1.5-4.2 4.8-6.5 9-6.5s7.5 2.3 9 6.5" fill="#f8fafc" stroke="#1f2937" stroke-width="1.3" stroke-linejoin="round"/>
+</svg>
