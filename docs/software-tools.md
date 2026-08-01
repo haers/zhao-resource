@@ -1,7 +1,7 @@
 ---
 title: 软件工具与系统资源合集
 description: 小赵资源站软件工具与系统资源合集，整理系统工具、效率软件、装机资源和实用工具等夸克网盘免费资源。
-updated: 2026-07-31
+updated: 2026-08-01
 prev:
   text: "健康运动与生活"
   link: "/health-life#资源明细"
@@ -54,6 +54,7 @@ Windows、macOS、安卓、TV 应用与常用效率工具资料汇集在这里�
 | 系统-Windows必装软件 | [`小赵资源分享/08-软件工具与系统/32-系统-Windows必装软件`](https://pan.quark.cn/s/94d1a1af02be) | [打开](https://pan.quark.cn/s/94d1a1af02be) |
 | 工具-多平台内容一键发布工具 | [`小赵资源分享/08-软件工具与系统/33-工具-多平台内容一键发布工具`](https://pan.quark.cn/s/ee09e3a0de0b) | [打开](https://pan.quark.cn/s/ee09e3a0de0b) |
 | 工具-开源PDF工具与本地处理资料包 | [`小赵资源分享/08-软件工具与系统/34-工具-开源PDF工具与本地处理资料包`](https://pan.quark.cn/s/f329c521d978) | [打开](https://pan.quark.cn/s/f329c521d978) |
+| 工具-开源笔记与知识库入口 | [`小赵资源分享/08-软件工具与系统/35-工具-开源笔记与知识库入口`](https://pan.quark.cn/s/47b1b214430b) | [打开](https://pan.quark.cn/s/47b1b214430b) |
 
 ## 其他分类资源
 
@@ -67,7 +68,7 @@ Windows、macOS、安卓、TV 应用与常用效率工具资料汇集在这里�
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
 | 健康运动与生活 | 41 | [打开](https://pan.quark.cn/s/318955691a3c) |
-| 软件工具与系统 | 34 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
+| 软件工具与系统 | 35 | [打开](https://pan.quark.cn/s/e2ecda6e8b73) |
 | 音乐音频 | 46 | [打开](https://pan.quark.cn/s/b4e6caee0a6e) |
 | 图片写真与壁纸 | 14 | [打开](https://pan.quark.cn/s/e33e69f438fa) |
 | 社区资料与论坛备份 | 3 | [打开](https://pan.quark.cn/s/0e972255ea18) |
