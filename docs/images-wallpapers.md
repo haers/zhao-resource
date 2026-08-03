@@ -1,7 +1,7 @@
 ---
 title: 图片写真与壁纸资源合集
 description: 小赵资源站图片写真与壁纸资源合集，整理图片素材、写真、壁纸与视觉参考等夸克网盘免费资源。
-updated: 2026-08-01
+updated: 2026-08-03
 prev:
   text: "音乐音频"
   link: "/music-audio#资源明细"
@@ -42,7 +42,7 @@ next:
 | --- | ---: | --- |
 | 学生教育 | 34 | [打开](https://pan.quark.cn/s/d3b0c7a986b1) |
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
-| 编程开发与AI | 150 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
+| 编程开发与AI | 151 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
 | 设计摄影与剪辑 | 53 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |

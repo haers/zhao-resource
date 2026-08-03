@@ -1,7 +1,7 @@
 ---
 title: 编程开发与AI资源合集
 description: 小赵资源站编程开发与AI资源合集，整理编程课程、DeepSeek、ChatGPT、AIGC、AI绘画和视频工具等夸克网盘免费资源。
-updated: 2026-08-01
+updated: 2026-08-03
 prev:
   text: "职业考试与职场提升"
   link: "/career-development#资源明细"
@@ -170,6 +170,7 @@ Python、JavaScript、前后端开发、人工智能与 AIGC 学习资料汇在�
 | StableDiffusion-AI虚拟模特电商图实战-StableDiffusion为电商图优化赋能 | [`小赵资源分享/03-编程开发与AI/148-StableDiffusion-AI虚拟模特电商图实战-StableDiffusion为电商图优化赋能`](https://pan.quark.cn/s/8b9ebb62b3e5) | [打开](https://pan.quark.cn/s/8b9ebb62b3e5) |
 | StableDiffusion-Ai智能绘画!Stable Diffusion保姆式教程 | [`小赵资源分享/03-编程开发与AI/149-StableDiffusion-Ai智能绘画!Stable Diffusion保姆式教程`](https://pan.quark.cn/s/e58ddf78a2ca) | [打开](https://pan.quark.cn/s/e58ddf78a2ca) |
 | StableDiffusion-Stable Diffusion AI绘图教学 | [`小赵资源分享/03-编程开发与AI/150-StableDiffusion-Stable Diffusion AI绘图教学`](https://pan.quark.cn/s/081bb0309bef) | [打开](https://pan.quark.cn/s/081bb0309bef) |
+| 笔记-Markdown速查与写作模板包 | [`小赵资源分享/03-编程开发与AI/151-笔记-Markdown速查与写作模板包`](https://pan.quark.cn/s/4e58ff9c658c) | [打开](https://pan.quark.cn/s/4e58ff9c658c) |
 
 ## 其他分类资源
 
@@ -178,7 +179,7 @@ Python、JavaScript、前后端开发、人工智能与 AIGC 学习资料汇在�
 | --- | ---: | --- |
 | 学生教育 | 34 | [打开](https://pan.quark.cn/s/d3b0c7a986b1) |
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
-| 编程开发与AI | 150 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
+| 编程开发与AI | 151 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
 | 设计摄影与剪辑 | 53 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
