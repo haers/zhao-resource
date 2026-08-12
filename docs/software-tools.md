@@ -1,7 +1,7 @@
 ---
 title: 软件工具与系统资源合集
 description: 小赵资源站软件工具与系统资源合集，整理系统工具、效率软件、装机资源和实用工具等夸克网盘免费资源。
-updated: 2026-08-03
+updated: 2026-08-12
 prev:
   text: "健康运动与生活"
   link: "/health-life#资源明细"
@@ -63,7 +63,7 @@ Windows、macOS、安卓、TV 应用与常用效率工具资料汇集在这里�
 | --- | ---: | --- |
 | 学生教育 | 34 | [打开](https://pan.quark.cn/s/d3b0c7a986b1) |
 | 职业考试与职场提升 | 21 | [打开](https://pan.quark.cn/s/fd8e464ac9e4) |
-| 编程开发与AI | 151 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
+| 编程开发与AI | 152 | [打开](https://pan.quark.cn/s/f92d59cff71e) |
 | 设计摄影与剪辑 | 53 | [打开](https://pan.quark.cn/s/e755db878f38) |
 | 电子书与有声读物 | 26 | [打开](https://pan.quark.cn/s/27428a112f1d) |
 | 人文社科与财经法律 | 77 | [打开](https://pan.quark.cn/s/6de35ae8a6d2) |
