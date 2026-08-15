@@ -7,6 +7,7 @@
   import "xgplayer/dist/index.min.css";
   import { onMounted } from 'vue'
   
+/** 视频播放：文档页内嵌西瓜播放器。 */
   interface propsType {
     url: string
     poster: string

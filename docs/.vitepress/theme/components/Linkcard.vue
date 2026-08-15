@@ -1,4 +1,5 @@
 <script setup lang="ts">
+/** 链接卡片：文档里的外链预览块。 */
 interface Props {
     url: string
     title: string

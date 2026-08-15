@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import DefaultTheme from 'vitepress/theme'
 
+/** 不蒜子计数：页脚访客与访问量。 */
 </script>
 
 <template>

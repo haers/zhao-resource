@@ -1,4 +1,5 @@
 <script setup lang="ts">
+/** 数据面板：首页访问量与访客数。 */
 </script>
 
 <template>

@@ -5,6 +5,7 @@ import { slugify } from '@mdit-vue/shared'
 import MNavLink from './MNavLink.vue'
 import type { NavLink } from '../untils/types'
 
+/** 导航分组：资源站分类链接列表。 */
 const props = defineProps<{
   title: string
   noIcon?: boolean

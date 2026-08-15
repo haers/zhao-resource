@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
+/** 网站公告：顶栏或侧栏通知条。 */
 const visible = ref(true)
 
 function closetz() {

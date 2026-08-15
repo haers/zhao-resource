@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useData } from 'vitepress'
 import { computed } from 'vue'
+/** 更新提示：文档有新版本时提醒刷新。 */
 const { page } = useData()
 
 const date = computed(

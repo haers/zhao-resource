@@ -2,6 +2,7 @@
 import { useData } from 'vitepress'
 import { onMounted, onUnmounted } from 'vue'
 
+/** 首页标题下划线：品牌标题装饰。 */
 let sourceElement: Element | null = null
 let placeholder: Comment | null = null
 

@@ -2,6 +2,7 @@
 import confetti from 'canvas-confetti'
 import { inBrowser } from 'vitepress';
 
+/** 彩纸：首页或节日氛围动效。 */
 if (inBrowser) {
 
 /* 纸屑 */

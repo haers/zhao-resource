@@ -5,6 +5,7 @@ import { slugify } from '@mdit-vue/shared'
 
 import { NavLink } from '../untils/types'
 
+/** 导航一条：图标、标题与外链。 */
 const props = defineProps<{
   noIcon?: boolean
   icon?: NavLink['icon']

@@ -3,6 +3,7 @@ import { useData } from 'vitepress'
 import { computed, ref, onMounted } from 'vue'
 import { countWord } from '../untils/functions'
 
+/** 文章元信息：字数、阅读时间与更新日。 */
 const { page, frontmatter } = useData()
 const date = computed(() => {
     const updated = frontmatter.value.updated

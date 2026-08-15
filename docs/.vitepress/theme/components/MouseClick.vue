@@ -8,6 +8,7 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
 
+/** 点击涟漪：鼠标按下的装饰反馈。 */
 const canvas = ref(null);
 let animationFrameId = null;
 let particles = [];

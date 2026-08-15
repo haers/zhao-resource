@@ -7,6 +7,7 @@
 
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
+/** 鼠标跟随：光标旁的装饰圆点。 */
 const canvas = ref(null);
 let ctx = null;
 let particles = [];

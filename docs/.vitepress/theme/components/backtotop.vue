@@ -1,6 +1,7 @@
 <script setup>
 import { onBeforeUnmount, onMounted, ref, computed } from "vue";
 
+/** 返回顶部：滚过一屏后显示圆形进度按钮。 */
 const showBackTop = ref(false); // 初始状态设为false
 const scrollProgress = ref(0);
 

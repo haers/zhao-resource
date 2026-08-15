@@ -10,6 +10,7 @@ import backtotop from "./backtotop.vue"
 import notice from "./notice.vue"
 import bsz from "./bsz.vue"
 
+/** 站点布局：在 VitePress 默认布局上叠公告与动效。 */
 const { isDark } = useData()
 
 const enableTransitions = () =>
