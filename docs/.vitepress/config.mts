@@ -30,12 +30,20 @@ export default defineConfig({
   locales: {
     root: {
       label: '简体中文',
-      lang: 'Zh_CN',
+      lang: 'zh-CN',
     },
   },
 
   //markdown配置
   markdown: {
+    // 使用VitePress原生提示块标题，只翻译标题，不替换正文、代码和URL中的同名英文。
+    container: {
+      noteLabel: '提醒',
+      tipLabel: '建议',
+      importantLabel: '重要',
+      warningLabel: '警告',
+      cautionLabel: '注意',
+    },
     //行号显示
     lineNumbers: true,
 
@@ -57,6 +65,16 @@ export default defineConfig({
     },
 
     config: (md) => {
+      // 1.6.4未将container标签传给GitHub alerts，仅翻译其默认标题，保留用户自定义标题。
+      const renderAlert = md.renderer.rules.github_alert_open!;
+      const alertTitles: Record<string, string> = {
+        NOTE: '提醒', TIP: '建议', IMPORTANT: '重要', WARNING: '警告', CAUTION: '注意',
+      };
+      md.renderer.rules.github_alert_open = (...args) => renderAlert(...args).replace(
+        /(<p class="custom-block-title">)(NOTE|TIP|IMPORTANT|WARNING|CAUTION)(<\/p>)/g,
+        (_, start, title, end) => `${start}${alertTitles[title]}${end}`,
+      );
+
       // 组件插入h1标题下
       md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
         let htmlResult = slf.renderToken(tokens, idx, options)
@@ -66,36 +84,6 @@ export default defineConfig({
 
       // 代码组中添加图片
       md.use((md) => {
-        const defaultRender = md.render
-        md.render = (...args) => {
-          const [content, env] = args
-          const currentLang = env?.localeIndex || 'root'
-          const isHomePage = env?.path === '/' || env?.relativePath === 'index.md'  // 判断是否是首页
-
-          if (isHomePage) {
-            return defaultRender.apply(md, args) // 如果是首页，直接渲染内容
-          }
-          // 调用原始渲染
-          let defaultContent = defaultRender.apply(md, args)
-          // 替换内容
-          if (currentLang === 'root') {
-            defaultContent = defaultContent.replace(/NOTE/g, '提醒')
-              .replace(/TIP/g, '建议')
-              .replace(/IMPORTANT/g, '重要')
-              .replace(/WARNING/g, '警告')
-              .replace(/CAUTION/g, '注意')
-          } else if (currentLang === 'ko') {
-            // 韩文替换
-            defaultContent = defaultContent.replace(/NOTE/g, '알림')
-              .replace(/TIP/g, '팁')
-              .replace(/IMPORTANT/g, '중요')
-              .replace(/WARNING/g, '경고')
-              .replace(/CAUTION/g, '주의')
-          }
-          // 返回渲染的内容
-          return defaultContent
-        }
-
         // 获取原始的 fence 渲染规则
         const defaultFence = md.renderer.rules.fence?.bind(md.renderer.rules) ?? ((...args) => args[0][args[1]].content);
 
@@ -133,8 +121,8 @@ export default defineConfig({
           js: 'logos:javascript', //js图标
         },
       }),
-      [MermaidPlugin()]
-    ]as any,
+      MermaidPlugin()
+    ],
     optimizeDeps: {
       include: ['mermaid'],
     },
@@ -225,47 +213,30 @@ export default defineConfig({
 
 
 
-    // 本地搜索
+    // 本地搜索使用LocalSearchTranslations；保留中文入口，不混用Algolia字段。
     search: {
       provider: 'local',
       options: {
         locales: {
           root: {
-            placeholder: '搜索文档',
             translations: {
               button: {
                 buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
+                buttonAriaLabel: '搜索文档',
               },
               modal: {
-                searchBox: {
-                  resetButtonTitle: '清除查询条件',
-                  resetButtonAriaLabel: '清除查询条件',
-                  cancelButtonText: '取消',
-                  cancelButtonAriaLabel: '取消'
-                },
-                startScreen: {
-                  recentSearchesTitle: '搜索历史',
-                  noRecentSearchesText: '没有搜索历史',
-                  saveRecentSearchButtonTitle: '保存至搜索历史',
-                  removeRecentSearchButtonTitle: '从搜索历史中移除',
-                  favoriteSearchesTitle: '收藏',
-                  removeFavoriteSearchButtonTitle: '从收藏中移除'
-                },
-                errorScreen: {
-                  titleText: '无法获取结果',
-                  helpText: '你可能需要检查你的网络连接'
-                },
+                displayDetails: '显示详细列表',
+                resetButtonTitle: '清除查询条件',
+                backButtonTitle: '关闭搜索',
+                noResultsText: '无法找到相关结果',
                 footer: {
                   selectText: '选择',
+                  selectKeyAriaLabel: '回车',
                   navigateText: '切换',
+                  navigateUpKeyAriaLabel: '上箭头',
+                  navigateDownKeyAriaLabel: '下箭头',
                   closeText: '关闭',
-                },
-                noResultsScreen: {
-                  noResultsText: '无法找到相关结果',
-                  suggestedQueryText: '你可以尝试查询',
-                  reportMissingResultsText: '你认为该查询应该有结果？',
-                  reportMissingResultsLinkText: '点击反馈'
+                  closeKeyAriaLabel: 'Esc',
                 },
               },
             },
@@ -273,8 +244,6 @@ export default defineConfig({
         },
       },
     },
-
-
 
     //社交链接
     socialLinks: [

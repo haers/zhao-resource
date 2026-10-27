@@ -6,6 +6,8 @@
 
 文档站（VitePress）：仓根就是站点工程，不要套 Java 产品骨架。内容在 `docs/`。
 
+升级记录与本机截图索引：[VitePress升级与对照](maintenance/VitePress升级与对照-20261027.md)。
+
 ## 🗓️ 最新更新
 
 | 日期 | 更新内容 |

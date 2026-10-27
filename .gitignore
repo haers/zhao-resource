@@ -34,3 +34,5 @@ temp/
 
 docs/.vitepress/cache
 docs/.vitepress/dist
+# 本机升级验证证据，不发布
+work/
